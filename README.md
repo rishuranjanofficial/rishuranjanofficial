@@ -1,10 +1,9 @@
 ### Rishu Ranjan
 ![](https://visitor-badge.glitch.me/badge?page_id=rishuranjanofficial.rishuranjanofficial)<a href="https://twitter.com/tweetit_rrj"> 
-<img align="left" alt="Rishu Ranjan | Twitter" width="22px" src="https://github.com/rishuranjanofficial/rishuranjanofficial/blob/main/twitter.svg" />
+<img align="left" alt="Rishu Ranjan | Twitter" width="22px" src="https://raw.githubusercontent.com/rishuranjanofficial/rishuranjanofficial/0c0fb6e8feca26a735700f34150b46c72461d61f/twitter.svg" />
 </a>
 
-Senior Security Enginer
-India
+Senior Security Enginer, India
 
 Offensive Security Certified Professional and CREST Practitioner Security Analyst and Penetration Tester with an overall experience of more than 5 years in Cyber Security domain. Experienced in Web Application Security, Secure Code Review, API Pentesting, Infrastructure Security and managing resources and projects. Performing DAST, SAST, Network VAPT and managing AWS Infrastructure in current role. Rich Exposure to Consultancy in Cyber Security.
 
