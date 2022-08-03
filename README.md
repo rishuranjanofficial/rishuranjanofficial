@@ -18,7 +18,7 @@
 <br/>
 <br/>
 
-Offensive Security Certified Professional and CREST Practitioner Security Analyst and Penetration Tester with an overall experience of more than 5 years in Cyber Security domain. Experienced in Web Application Security, Secure Code Review, API Pentesting, Infrastructure Security and managing resources and projects. Performing DAST, SAST, Network VAPT and managing AWS Infrastructure in current role. Rich Exposure to Consultancy in Cyber Security.
+Offensive Security Certified Professional and CREST Practitioner Security Analyst and Penetration Tester with an overall experience of 6 years in Cyber Security domain. Experienced in Web Application Security, Secure Code Review, API Pentesting, Bug Bounty Program Triager, Infrastructure Security and managing resources and projects. Performing DAST, SAST, Network VAPT and managing AWS Infrastructure in current role. Rich Exposure to Consultancy in Cyber Security.
 
 
 <!--
