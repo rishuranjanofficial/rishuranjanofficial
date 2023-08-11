@@ -2,7 +2,7 @@
 ### Senior Security Enginer, India
 
 <!-- Twitter -->
-<a href="https://twitter.com/tweetit_rrj"> 
+<a href="https://twitter.com/secureit_rrj"> 
 <img align="left" alt="Rishu Ranjan | Twitter" width="22px" src="https://raw.githubusercontent.com/rishuranjanofficial/rishuranjanofficial/0c0fb6e8feca26a735700f34150b46c72461d61f/twitter.svg" />
 </a> 
 
