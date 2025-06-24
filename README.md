@@ -18,7 +18,7 @@
 <br/>
 <br/>
 
-As a Security Lead at Paytm, I perform and lead various security assessments and tests, such as SAST, DAST, API Security, CA/CR and Network Security. I also manage the AWS infrastructure for security operations and leading the Paytm Infrastructure Security and Vulnerability Management Process using Qualys. I have an overall experience of 7 years in the Cyber Security domain, with certifications such as OSCP and CREST CPSA, CRT.
+As a Security Lead at Paytm, I perform and lead various security assessments and tests, such as SAST, DAST, API Security, CA/CR and Network Security. I also manage the AWS infrastructure for security operations and leading the Paytm Infrastructure Security and Vulnerability Management Process using Qualys. I have an overall experience of 9 years in the Cyber Security domain, with certifications such as OSCP and CREST CPSA, CRT.
 
 My previous roles include Senior Security Engineer at Paytm, Senior Security Analyst I and Security Analyst III at Safe Security. In these roles, I gained experience in Web Application Security, Secure Code Review, Infrastructure Security, Bug Bounty Program, and Project Management. I have also contributed to the OWASP WSTG and Community, and developed in-house automated tools and scripts using Python and Bash. I have a M.Sc. in Informatics from the University of Delhi, and a Bachelor's Degree in Electronics from Atma Ram Sanatan Dharma College. My goal is to leverage my skills and knowledge to provide effective and innovative solutions for the security challenges faced by the organization and the industry.
 
