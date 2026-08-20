@@ -1,7 +1,6 @@
 <div align="center">
 
 # Rishu Ranjan
-
 ### Senior Application Security Engineer · OSCP · CREST CPSA · CRT
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Application+Security+%7C+Secure+Code+Review;AI+Security+%26+Agent+Engineering;Cloud+Security+(AWS)+%7C+SAST+%2F+DAST+%2F+SCA;OWASP+WSTG+Core+Contributor;CVE+Author+%7C+Bug+Bounty+Researcher" alt="Typing SVG" />
@@ -70,19 +69,16 @@ OSCP-certified Application Security Engineer with **10 years** of experience sec
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-000000?style=flat-square&logo=owasp&logoColor=white)
 ![SQLMap](https://img.shields.io/badge/SQLMap-2C2C2C?style=flat-square)
-
 ![Qualys](https://img.shields.io/badge/Qualys-D0242A?style=flat-square)
 ![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat-square)
 ![Nessus](https://img.shields.io/badge/Nessus-00A94F?style=flat-square)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596BE?style=flat-square)
 ![AWS Security Hub](https://img.shields.io/badge/AWS%20Security%20Hub-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-
 ![Apktool](https://img.shields.io/badge/Apktool-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![JADX](https://img.shields.io/badge/JADX-3DDC84?style=flat-square)
 ![CFF Explorer](https://img.shields.io/badge/CFF%20Explorer-666666?style=flat-square)
 ![Echo Mirage](https://img.shields.io/badge/Echo%20Mirage-666666?style=flat-square)
 ![VCG](https://img.shields.io/badge/VisualCodeGrepper-666666?style=flat-square)
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
@@ -108,17 +104,20 @@ OSCP-certified Application Security Engineer with **10 years** of experience sec
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=rishuranjanofficial&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rishuranjanofficial&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" height="165"/>
 <img src="https://streak-stats.demolab.com/?user=rishuranjanofficial&theme=dark&hide_border=true" alt="GitHub Streak" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishuranjanofficial&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" alt="Top Languages"/>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rishuranjanofficial&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
+</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/rishuranjanofficial/rishuranjanofficial/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
 ---
 
 <div align="center">
-
 📫 **Reach me:** rishuranjanofficial@gmail.com &nbsp;|&nbsp; 📍 New Delhi, India
-
 </div>
