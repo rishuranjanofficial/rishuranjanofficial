@@ -104,15 +104,14 @@ OSCP-certified Application Security Engineer with **10 years** of experience sec
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rishuranjanofficial&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=rishuranjanofficial&theme=dark&hide_border=true" alt="GitHub Streak" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishuranjanofficial&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" alt="Top Languages"/>
+<img src="./profile/stats.svg" alt="GitHub Stats" height="165"/>
+<img src="./profile/top-langs.svg" alt="Top Languages" height="165"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rishuranjanofficial/rishuranjanofficial/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img src="./profile/snake.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
