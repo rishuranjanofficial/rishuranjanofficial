@@ -1,6 +1,6 @@
 <div align="center">
 
-# Rishu Ranjan
+# Rishu Ranjan 
 ### Senior Application Security Engineer · OSCP · CREST CPSA · CRT
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Application+Security+%7C+Secure+Code+Review;AI+Security+%26+Agent+Engineering;Cloud+Security+(AWS)+%7C+SAST+%2F+DAST+%2F+SCA;OWASP+WSTG+Core+Contributor;CVE+Author+%7C+Bug+Bounty+Researcher" alt="Typing SVG" />
@@ -18,8 +18,8 @@
   <a href="https://github.com/rishuranjanofficial">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=rishuranjanofficial&color=blue&style=for-the-badge" alt="Profile Views"/>
 </p>
+ <img src="https://komarev.com/ghpvc/?username=rishuranjanofficial&color=blue&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
