@@ -1,6 +1,7 @@
 <div align="center">
 
-# Rishu Ranjan 
+# Rishu Ranjan
+
 ### Senior Application Security Engineer · OSCP · CREST CPSA · CRT
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Application+Security+%7C+Secure+Code+Review;AI+Security+%26+Agent+Engineering;Cloud+Security+(AWS)+%7C+SAST+%2F+DAST+%2F+SCA;OWASP+WSTG+Core+Contributor;CVE+Author+%7C+Bug+Bounty+Researcher" alt="Typing SVG" />
@@ -19,7 +20,8 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
- <img src="https://komarev.com/ghpvc/?username=rishuranjanofficial&color=blue&style=for-the-badge" alt="Profile Views"/>
+
+<img src="https://komarev.com/ghpvc/?username=rishuranjanofficial&color=blue&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
@@ -34,6 +36,7 @@ OSCP-certified Application Security Engineer with **10 years** of experience sec
 - 🤖 Engineering custom **AI agents** (Glean, Copilot) to automate high-velocity security document review and multi-year trend analysis
 - ☁️ Auditing Amazon ECR container images for vulnerabilities and zero-trust compliance; running PCI DSS v4.0 assessments
 - 🌱 Core Contributor to the **OWASP Web Security Testing Guide (WSTG)** since 2020
+- 🧩 Open Source Contributor to **Google Perfetto** — Google's open-source performance tracing & profiling toolkit (used across Android & Chrome)
 - 🐛 Independent bug bounty researcher on **HackerOne** and **Bugcrowd**
 - 🏆 Security acknowledgements from **Apple, Microsoft, SAP, LG Electronics, and Google**
 - 📜 CVE Author - CVE-2018-12234, 12650, 12651, 12652, 12653
@@ -95,6 +98,7 @@ OSCP-certified Application Security Engineer with **10 years** of experience sec
 |---|---|
 | 🎓 **Certifications** | OSCP · CREST CPSA · CREST CRT |
 | 🧩 **OWASP** | Core Contributor, Web Security Testing Guide (WSTG) - 2020–Present |
+| 🔧 **Open Source** | Contributor, Google Perfetto (performance tracing & profiling toolkit) |
 | 🏅 **Acknowledged by** | Apple · Microsoft · SAP · LG Electronics · Google (2018–2023) |
 | 📄 **CVEs** | CVE-2018-12234, 12650, 12651, 12652, 12653 |
 | 🎓 **Education** | M.Sc. Informatics, University of Delhi (2014–2016) · B.Sc(H) Electronics, University of Delhi - ARSD College (2011–2014) |
@@ -119,5 +123,5 @@ OSCP-certified Application Security Engineer with **10 years** of experience sec
 ---
 
 <div align="center">
-📫 **Reach me:** rishuranjanofficial@gmail.com &nbsp;|&nbsp; 📍 New Delhi, India
+📫 <strong>Reach me:</strong> rishuranjanofficial@gmail.com &nbsp;|&nbsp; 📍 New Delhi, India
 </div>
